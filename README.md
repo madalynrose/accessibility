@@ -1,12 +1,6 @@
 # accessibility
 Easy-to-follow web accessibility process
 
-## Testing
-* [ ] [tenon.io](http://tenon.io)
- * [ ] paste in new html
- * [ ] no major issues are listed
-* [ ]  page is navigable using only keyboard
-
 ## Content
 * link
  * [ ] single <a> tag around all content linked to same href
@@ -34,5 +28,11 @@ Easy-to-follow web accessibility process
  * [ ] page landmarks have appropriate roles
  * [ ] document outline made obvious through use of semantic markup and/or appropriate roles
  * [ ] colors have sufficient contrast ratio
+
+## Testing
+* [ ] [tenon.io](http://tenon.io)
+ * [ ] paste in new html
+ * [ ] no major issues are listed
+* [ ]  page is navigable using only keyboard
  
  
