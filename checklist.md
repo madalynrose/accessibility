@@ -14,7 +14,7 @@ Easy-to-follow web accessibility process
  * [ ] [long-desc](http://www.w3.org/TR/WCAG20-TECHS/H45.html) if necessary
 * video
  * [ ]  link to text transcript
- * [ ] subtitles through [<track> tag](http://www.w3schools.com/tags/tag_track.asp)
+ * [ ] subtitles through <[track](http://www.w3schools.com/tags/tag_track.asp)> tag
 * form
  * [ ] tab order follows a logical pattern
  * [ ] all form controls are labeled either by “aria-label”, <label> tag, or “for” attribute
